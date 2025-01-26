@@ -18,5 +18,5 @@ if (score >= 0 && score <= 49) {
 } else if (score >= 90 && score <= 100){
     grade = 'A';
 };
-console.log(grade);
+
 
