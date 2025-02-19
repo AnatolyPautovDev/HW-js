@@ -16,5 +16,3 @@ function truncate(str, maxLength) {
     return str;
   }
 }
-
-console.log(truncate("Короткая строка", 20));
